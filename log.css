@@ -1,0 +1,89 @@
+/*
+CSS for login page */
+body {
+    background-color: rgb(255, 217, 0);
+}
+header {
+    text-align: center;
+    border-bottom: 1px;
+    color: red;
+    border-top: 3px solid green;
+    border-bottom: 3px solid green;
+    border-left: 3px solid green;
+    border-right: 3px solid green;
+}
+.black {
+    color: black;
+}
+form.login fieldset{
+    border: 2px solid white;
+    padding: 5px;
+}
+form.login {
+    padding: 0;
+    margin: 0;
+    margin-top: -10px;
+    line-height: 150%;
+}
+form.login label{
+    font-weight: bold;
+    font-size: small;
+    color: black;
+}
+form.login label.fixedwidth {
+    display: block;
+    width: 250px;
+    float: left;
+}
+form.login #button {
+    text-align: center;
+    padding: 6px;
+    border-bottom: 2px solid green;
+}
+form.login #button input {
+    background-color: cornflowerblue;
+}
+h3 {
+    text-align: center;
+    color: green;
+}
+a {
+        font-weight: bold;
+    }
+    a:link {
+        color:black
+    }
+    a:visited {
+        color: navy;
+    }
+    a:hover {
+        text-decoration: none;
+        color: white;
+        background-color: navy;
+    }
+    a:active {
+        color: aqua;
+        background-color: navy;
+}
+li {
+    font-size: small;
+    list-style-type: none;
+}
+footer {
+    text-align: center;
+}
+form.login #proceed {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+#ourservices li {
+    list-style-type: disc;
+}
+#aims li {
+    list-style-type: disc;
+}
+#bodycontent {
+    font-family: san-serif,'Times New Roman', Times, serif;
+}
