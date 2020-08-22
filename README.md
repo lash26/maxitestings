@@ -1,3 +1,3 @@
 # maxitestings
 
-https://lash26.github.io/maxitestings/.css
+https://lash26.github.io/maxitestings/.404.html
